@@ -1,0 +1,6 @@
+{
+  "name": "Test Analyzer & Prep Tracker",
+  "description": "Analyze tests, calculate scores, identify strengths and weaknesses, evaluate highly important topics, and track preparation progress over time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
